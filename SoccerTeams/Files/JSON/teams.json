@@ -1,0 +1,90 @@
+[
+    {
+        "name": "São Paulo",
+        "image": "saopaulo",
+        "full_name": "São Paulo Futebol Clube",
+        "foundation_year": 1930,
+        "history": "O início da história do São Paulo Futebol Clube (SPFC) se deu em função da história do Clube Atlético Paulistano. Este sempre foi um clube de peso na cidade de São Paulo, mas não era a favor do profissionalismo que o futebol estava adotando. O resultado foi que alguns jogadores do Paulistano migraram para um outro clube, a Associação Atlética das Palmeiras, que possuía um estádio próprio, mas que estava com muitas dívidas. Foi essa fusão que deu origem ao São Paulo, no dia 27 de janeiro de 1930, mas, por motivo simbólico (data de aniversário da fundação da cidade de São Paulo), o documento oficial ficou datado de 15 de janeiro de 1930. Com muitos títulos conquistados desde a primeira década de sua existência, o São Paulo Futebol Clube, na década de 1960, passou a investir na construção de um estádio até hoje gigantesco: o Cícero Pompeu de Toledo, popularmente chamado de Morumbi.O uniforme oficial do São Paulo é camisa branca, com duas listras horizontais em vermelho e preto, short branco e meias brancas com listras horizontais iguais às da camisa. O segundo uniforme é short e meias pretas, acompanhados de camisa vermelha com listras verticais grossas em preto e finas em branco.",
+        "coach_name": "Fernando Diniz"
+    },
+    {
+        "name": "Corinthians",
+        "image": "corinthians",
+        "full_name": "Sport Club Corinthians Paulista",
+        "foundation_year": 1910,
+        "history": "Poucos anos após sua chegada em São Paulo, o futebol tornou-se um dos esportes mais populares entre os paulistanos, tendo sua prática disseminada por diversas partes da cidade. Embora fosse jogado por todas as classes sociais, essas não se misturavam. Em 1901, cinco clubes de origem aristocrático e burguesa fundaram a Liga Paulista de Foot-Ball, a entidade que controlaria oficialmente o futebol local e organizou a primeira edição do Campeonato Paulista em 1902. Entre eles, estavam o Club Athlético Paulistano, o São Paulo Athletic Club e a Sport Club Germânia, e seus praticantes eram principalmente jovens brancos que integravam as classes mais altas, principalmente estudantes. A seleção criteriosa imposta pelos clubes da LPF, presente nos seus estatutos, propositalmente excluía times oriundos das classes populares, que paralelamente organizavam seu próprio futebol, denominado informalmente de varzeano ou dos arrabaldes, sem contar com prestígio por parte da elite paulistana e da sua imprensa, para quem o futebol das classes populares era distinto daquele praticado pelos mais abastados.",
+        "coach_name": "Tiago Nunes"
+    },
+    {
+        "name": "Palmeiras",
+        "image": "palmeiras",
+        "full_name": "Sociedade Esportiva Palmeiras",
+        "foundation_year": 1914,
+        "history": "O Palmeiras surgiu no dia 26 de agosto de 1914. Fundado por imigrantes italianos, seu primeiro nome foi Società Sportiva Palestra Italia. Em 1942, quando estava estabelecida como uma força do futebol paulista, a equipe foi obrigada a trocar de nome, passando a se chamar Sociedade Esportiva Palmeiras em decorrência da Segunda Guerra Mundial. O Palmeiras foi campeão paulista logo em sua primeira partida com o novo nome. Foram, ao todo, 22 títulos estaduais. Um dos times mais famosos da história do clube alviverde foi o chamado de Academia de Futebol, das décadas de 1960 e 70, liderado por Ademir da Guia - um dos poucos elencos que faziam frente ao Santos de Pelé.",
+        "coach_name": "Vanderlei Luxemburgo"
+    },
+    {
+        "name": "Santos",
+        "image": "santos",
+        "full_name": "Santos Futebol Clube",
+        "foundation_year": 1912,
+        "history": "A fundação do Santos Foot-Ball Club se deu em 14 de abril de 1912, incentivada por três frequentadores do Clube Concórdia, que estavam interessados na prática do futebol. Logo em seguida, foi nomeada a primeira diretoria do clube. O primeiro jogo disputado pelo Santos aconteceu no mês de junho do mesmo ano e foi um amistoso contra uma união de jogadores locais, vencido pelo Santos por 2x1. No entanto, o primeiro jogo e vitória oficiais aconteceriam apenas em 15 de setembro, contra o Santos Athletic Club (hoje chamado Clube dos Ingleses) pelo placar de 3x2. Logo no ano seguinte, o time começou a disputar a Liga Paulista de Futebol, mas passou anos conquistando pequenos títulos até que, em 1955, o time se consagrou Campeão Paulista, inaugurando uma época de muitas glórias para o clube. Esse período tornou-se ainda mais especial no ano seguinte, quando Pelé passou a integrar o time principal. Logo, a fantástica equipe santista conquistou não apenas o futebol nacional, mas também o mundial, chegando a vencer, inclusive, o Mundial Interclubes.",
+        "coach_name": "Jesualdo Ferreira"
+    },
+    {
+        "name": "Flamengo",
+        "image": "flamengo",
+        "full_name": "Clube de Regatas do Flamengo",
+        "foundation_year": 1895,
+        "history": "O Flamengo foi fundado em 17 de novembro de 1895 para as disputas de remo. A entrada da equipe no futebol aconteceu em 1912. Atualmente, o time rubro-negro é o maior vencedor da história do Campeonato Carioca, com 31 títulos. Segundo diversas pesquisas, é o clube com o maior número de torcedores do País. Os dois principais títulos da história do Flamengo ocorreram em 1981. Comandado pelo ídolo Zico, o time conquistou a Copa Libertadores da América, em final contra o Cobreloa, do Chile, e o Mundial Interclubes, diante do Liverpool, da Inglaterra. Foi na década de 1980, também, que o Flamengo conquistou o seu primeiro Campeonato Brasileiro.",
+        "coach_name": "Jorge Jesus"
+    },
+    {
+        "name": "Fluminense",
+        "image": "fluminense",
+        "full_name": "Fluminense Football Club",
+        "foundation_year": 1902,
+        "history": "A origem do Fluminense ocorreu paralelamente à introdução do futebol no Rio de Janeiro. Em 1901, Cox, que teve contato com o futebol enquanto estudava na Suíça, juntou algumas pessoas para realizar uma partida no Rio, contra jogadores ingleses. Após poucas partidas nesses moldes, o “Rio name” viajou à São Paulo para realizar sua primeira partida mais séria. Após uma tentativa frustrada de montar um clube voltado à prática do futebol, em 1902 esse desejo foi realizado: fundava-se o Fluminense Football Club, com vinte participantes iniciais: Horácio da Costa Santos, Mário Rocha, Walter Schuback, Félix Frias, Mário Frias, Heráclito de Vasconcelos, Oscar Alfredo Cox, João Carlos de Mello, Domingos Moitinho, Luís da Nóbrega Júnior, Arthur Gibbons, Virgílio Leite, Manoel Rios, Américo da Silva Couto, Eurico de Moraes, Victor Etchegaray, A. C. Mascarenhas, Álvaro Drolhe da Costa, Júlio de Moraes e A. H. Roberts. O próximo passo, então, seria encontrar o local para a construção do clube. O primeiro local escolhido foi um terreno no Botafogo que, curiosamente, a negociação não foi acertada. Porém, alugaram uma chácara na Rua Guanabara, que logo foi estruturada para dar suporte ao clube.",
+        "coach_name": "Odair Hellmann"
+    },
+    {
+        "name": "Botafogo",
+        "image": "botafogo",
+        "full_name": "Botafogo de Futebol e Regatas",
+        "foundation_year": 1904,
+        "history": "Separadamente, em 1904, foi fundado o Electro Club, time de futebol que posteriormente adotaria o nome de Botafogo Football Club. E, anos mais tarde, exatamente em 8 de dezembro de 1942, houve uma junção do Clube Regatas Botafogo com o Botafogo Football Clube, resultando no atual Botafogo Futebol e Regatas. A primeira metade do século XX foi um período de ouro para o Botafogo, no futebol: conquistou o tetracampeonato carioca com títulos consecutivos, em 1932, 1933, 1934 e 1935, além de ter sido base da seleção brasileira nas Copas do Mundo de 1934 e 1938. No final da década de 50, o Botafogo apresentava ao mundo Mané Garrincha, que logo seria considerado uma das melhores canhotas de todos os tempos. Nos anos 60 o Botafogo conquistou o bicampeonato da Taça Rio-São Paulo (em 1961/1962), conquistou o bicampeonato carioca (em 1967/1968) e a Taça do Brasil em 1968. Logo voltaria a ser time-base da seleção brasileira para a Copa de 1970. Após esse brilhante desempenho o Botafogo teve uma dura queda nas duas décadas seguintes, perdendo títulos, sua sede e até o seu estádio como pagamento de dívidas. Em 1990 o clube começa a se reerguer conquistando a Taça Conmebol e o Campeonato Brasileiro. E a partir de 2000 o Botafogo reconquista uma sede.",
+        "coach_name": "Paulo Autuori"
+    },
+    {
+        "name": "Vasco",
+        "image": "vasco",
+        "full_name": "Club de Regatas Vasco da Gama",
+        "foundation_year": 1898,
+        "history": "Ao longo dos seus 120 anos de história, o Vasco da Gama foi campeão sul-americano, da Libertadores, da Copa do Brasil, quatro vezes do Brasileirão e outras tantas do Carioca. Mas nenhuma conquista no campo tem o mesmo peso de uma carta que, de tão emblemática, está exposta na sala de troféus em São Januário. Em 7 de abril de 1924, o então presidente José Augusto Prestes assinou o manifesto que ficou conhecido como a Resposta Histórica, comunicando que o Vasco se recusaria a disputar a divisão principal do Rio de Janeiro sem seus jogadores negros, exigência que havia sido imposta pelos dirigentes da época. A dimensão simbólica da atitude, considerada insurgente naqueles tempos em que o futebol de elite era privilégio dos brancos, transformou o clube cruzmaltino em estandarte da luta contra o racismo no esporte brasileiro.",
+        "coach_name": "Ramon Menezes"
+    },
+    {
+        "name": "Fortaleza",
+        "image": "fortaleza",
+        "full_name": "Fortaleza Esporte Clube",
+        "foundation_year": 1918,
+        "history": "No futebol, principal esporte em que atua, tem como principal título o Campeonato Brasileiro da Série B de 2018, quando foi campeão nacional no ano do seu Centenário e com duas rodadas de antecedência. Foi campeão da Copa do Nordeste em 2019 e da Copa Cidade de Natal em 1946 (um dos primeiros títulos de âmbito regional disputados no Nordeste), do antigo Torneio Norte–Nordeste em 1970, é detentor de 42 títulos do Campeonato Cearense de Futebol (sendo o último em 2019), além de um campeonato estadual extra em 1972, e mais um dos torneios realizados pela extinta Liga Metropolitana Cearense.[carece de fontes] O clube também fez campanhas relevantes a nível nacional, foi duas vezes vice-campeão brasileiro da Série A, nos anos de 1960 e 1968 e duas vezes vice-campeão brasileiro da Série B nos anos de 2002 e 2004, sendo assim o clube cearense com as melhores campanhas na Série A e na Série B do Campeonato Brasileiro. É o único clube cearense a ganhar um torneio internacional, embora tenha sido uma competição amistosa, foi a Paramaribo Cup de 1962 que o clube conquistou de forma invicta. E em jogos oficiais foi o primeiro clube cearense na história a disputar uma partida fora do Brasil, pela Copa Sul-Americana de 2020.",
+        "coach_name": "Rogério Ceni"
+    },
+    {
+        "name": "Ceará",
+        "image": "ceara",
+        "full_name": "Ceará Sporting Club",
+        "foundation_year": 1914,
+        "history": "No estado do Ceará, o foot-bal l teve seus primeiros passos dados por marinheiros e funcionários de empresas inglesas instaladas no estado em 1903. Em 1904, José Silveiria, jovem estudante na Suíça, trouxe a primeira bola oficial para o estado. Logo o futebol tornou-se paixão popular; não demorou muito e surgiram inúmeras equipes. No dia 2 de junho de 1914, caminhando pelo centro da capital do estado Ceará, Luís Esteves Júnior e Pedro Freire conversavam sobre diversos assuntos, principalmente sobre política internacional. Após chutar uma pedra no meio do caminho, começaram a falar sobre futebol, surgindo a ideia de fundar um clube. Ao encontrar colegas no Café Art Nouveau, na Praça do Ferreira, a ideia da dupla foi se concretizando. Ainda no mesmo dia, a turma se reuniu na residência de Luís Esteves. As 22 pessoas (há quem fale em 18 e em 25) escolheram o nome do clube como Rio Branco Football Club, com camisas de cor roxa e calções brancos, semelhantes ao uniforme da atual ACF Fiorentina, da Itália (que seria fundada em 1926 e cujas vestimentas, portanto, não influenciaram as cores do time cearense). Gilberto Gurgel, comerciante da Praça do Ferreira, foi eleito o primeiro presidente e promoveu-se uma coleta entre os associados, visando a arrecadar fundos para comprar uma bola oficial número 5. Foram arrecadados cerca de 22 mil réis, uma quantia razoável e que mostra a boa condição social dos fundadores do clube.",
+        "coach_name": "Enderson Moreira"
+    },
+    {
+        "name": "Chapecoense",
+        "image": "chapecoense",
+        "full_name": "Associação Chapecoense de Futebol",
+        "foundation_year": 1973,
+        "history": "A Associação Chapecoense de Futebol foi fundada em 10 de maio de 1973 e, atualmente, é o maior, mais vitorioso e bem estruturado time de futebol profissional da região oeste de Santa Catarina. Sua origem está ligada ao fato de que, na década de 1970, a região possuía apenas alguns times amadores, sendo inexpressiva em relação ao futebol profissional. Com o propósito de reverter essa situação, alguns desportistas da cidade, jovens apaixonados pelo esporte, decidiram se reunir para criar um time de futebol profissional. Entre os presentes nos primeiros encontros, destacam-se Alvadir Pelisser, Heitor Pasqualotto e Altair Zanella, representantes do Clube Independente, Lotário Immich e Vicente Delai, representantes do Clube Atlético de Chapecó. De maneira geral, pode-se dizer que a Associação Chapecoense, posteriormente um dos grandes do futebol catarinense, surgiu da união dos clubes Atlético Chapecó e Independente. Desde seu início, a ideia agradou a população e as lideranças locais. Um fato marcante nessa história, e que pode ser compreendido como um dos fatores de sucesso do clube é o fato de que, desde sua fundação, a associação sempre pode contar com o apoio dos empresários da cidade e da região.",
+        "coach_name": "Marquinhos Santos"
+    }
+]
